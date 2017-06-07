@@ -1,5 +1,7 @@
 #! groovy
 
-class testclass {
+package test.jenkins
+
+class TestClass {
 	println 'this is only a test'
 } 
