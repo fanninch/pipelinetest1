@@ -3,5 +3,7 @@
 package test.jenkins
 
 class TestClass {
-    println 'this is only a test'
+	def run(){
+		println 'this is only a test'
+	}
 } 
