@@ -3,5 +3,5 @@
 package test.jenkins
 
 class TestClass {
-	println 'this is only a test'
+    println 'this is only a test'
 } 
